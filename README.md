@@ -1,10 +1,35 @@
 # Prasad Ajinkya
-###  Director of Technology at Homeville | Technology | Lending | Analytics 
 
+### Co-founder & Technology Lead | Housing Finance · Fintech · Agentic AI
 
- <a aligh="left" href="https://kidakaka.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/kidakaka" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/prasadajinkya" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+[![Website](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg)](https://kidakaka.com) 
+[![Twitter](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg)](https://twitter.com/kidakaka) 
+[![LinkedIn](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg)](https://www.linkedin.com/in/prasadajinkya)
 
-⚐ Based in Mumbai
+📍 Mumbai, India
 
-ϟ Currently leading the tech at Homeville
+---
 
+### What I'm Building
+- 🏠 **[Bharat Housing Network](https://bharathousingnetwork.com)** — Co-founder 
+- 🌐 **[Finternet](https://finternet.net)** — Core Volunteer (BIS/RBI-backed open financial infrastructure)
+- 📊 **[Singularity Creditworld](https://singularitycredit.com)** — Director (NBFC)
+
+---
+
+### Currently Exploring
+`Agentic AI` · `Laravel` · `Open data ecosystems` · `Loan Securitisation on Open Networks`
+
+---
+
+### Tech Stack
+`PHP` · `Laravel` · `JavaScript` · `Python` · `Typescript` · `Frappe` · `MySQL`
+
+---
+
+### Writing
+I write about tech, fintech, and product on my blog → [kidakaka.com](https://kidakaka.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidakaka&show_icons=true&theme=default)
