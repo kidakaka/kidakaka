@@ -1,11 +1,6 @@
 # Prasad Ajinkya
 
 ### Co-founder & Technology Lead | Housing Finance · Fintech · Agentic AI
-
-[![Website](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg)](https://kidakaka.com) 
-[![Twitter](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg)](https://twitter.com/kidakaka) 
-[![LinkedIn](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg)](https://www.linkedin.com/in/prasadajinkya)
-
 📍 Mumbai, India
 
 ---
