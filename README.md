@@ -9,7 +9,7 @@ I'm a technology professional and entrepreneur passionate about building scalabl
 
 ### 🚀 What I'm Building
 - 🏠 **[Bharat Housing Network](https://bharathousingnetwork.com)** — Co-founder (Building India's housing finance infrastructure as part of the Homeville group)
-- 🌐 **[Finternet](https://finternet.net)** — Core Volunteer (BIS/RBI-backed open financial infrastructure)
+- 🌐 **[Finternet](https://finternet.io)** — Core Volunteer (BIS/RBI-backed open financial infrastructure)
 - 📊 **[Singularity Creditworld](https://singularitycredit.com)** — Director (NBFC)
 
 ---
